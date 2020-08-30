@@ -99,10 +99,10 @@ export default {
             
         return {
             imagesbox:[
-            {pk:0,path:"",link:""},   
-            {pk:1,path:"",link:""},
-            {pk:3,path:"",link:""},
-            {pk:4,path:"",link:""},],
+            {pk:0,path:"/static/pictures/7.jpg",link:""},   
+            {pk:1,path:"/static/pictures/8.jpg",link:""},
+            {pk:3,path:"/static/pictures/9.jpg",link:""},
+            {pk:4,path:"/static/pictures/10.jpg",link:""},],
             msg: "",
             input1: '',
              tableData: [{
